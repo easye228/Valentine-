@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" /> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kari, Be My Valentine? 💘</title>
+  <title>Kari, Will you be My Valentine? 💘</title>
   <style>
     * { box-sizing: border-box; }
     body {
